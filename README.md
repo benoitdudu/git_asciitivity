@@ -1,6 +1,7 @@
 # git_asciitivity
 
-Simple python script that aims to transform ASCII text in git activity.
+Simple python script that aims to transform ASCII text in git activity.  
+This allow you to deliver small messages through your GitHub/Gitlab activity.
 
 # Prerequisite
 
